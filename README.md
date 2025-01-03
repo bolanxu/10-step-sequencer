@@ -1,6 +1,6 @@
-# 10-Step Electronic Sequencer
+# Pocket 10-Step Electronic Sequencer
 
-This is a simple sequencer project based on one CD4017 and three 555 timers. In 4th grade, I was learning about the 4017 and 555 timers and I had the inspiration to create a form of musical instrument by combining them togther. My first prototype was made on a breadboard and I remember that it was the most complicated circuit I had made up until that point in time. A few years later in 2021, I was learning about how to use Eagle PCB and decided to make this circuit into a PCB. And the Pocket Sequencer was born!
+This is a simple sequencer project based on one CD4017 and three 555 timers. In 4th grade, I was learning about the 4017 and 555 timers and I had the inspiration to create a form of musical instrument by combining them togther. My first prototype was made on a breadboard and I remember that it was the most complicated circuit I had made up until that point in time. A few years later in 2021, I was learning how to use Eagle PCB and decided to make this circuit into a PCB. And the Pocket Sequencer was born!
 
 ## Circuit
 
